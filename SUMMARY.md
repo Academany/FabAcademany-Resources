@@ -1,4 +1,4 @@
-# FabAcademy - Extra Resources
+# FabAcademy - Resources
 
 * [Introduction](README.md)
 * [License](LICENSE.md)
