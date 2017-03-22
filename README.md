@@ -1,4 +1,4 @@
-# FabAcademy - Extra Resources
+# FabAcademy - Resources
 
 This repository is for totally curated content as part of the workflow to support Fab Academy. Hosted in the [Academany Github respository](https://github.com/Academany/FabAcademy-Tutorials)
 
