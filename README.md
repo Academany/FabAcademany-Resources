@@ -25,4 +25,4 @@ we recommend you to use
  * [fablabs.io](https://www.fablabs.io/projects)
  * [fabble.cc](https://fabble.cc/)
 
->The projects associated with existing fab platforms will stay there and we will point to them.
+> The projects associated with existing fab platforms will stay there and we will point to them.
