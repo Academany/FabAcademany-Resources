@@ -12,10 +12,10 @@ If you think you have a useful project or resource that your want to share and m
 
 1. Create a [github](https://github.com/) account if you don't have already one.
 2. [Fork](https://help.github.com/articles/fork-a-repo/) the [FabAcademy-Resources repository](https://github.com/Academany/FabAcademany-Resources)
-3. Edit the `SUMMARY.md` to link to your
-5. Your project name must clarify the OS and language used in the tutorial. Example: `newfabisp.md`
-6. Write your tutorial using [Markdown](https://en.wikipedia.org/wiki/Markdown). If it is your first time writing in Markdown follow [this tutorial](http://www.markdowntutorial.com/). Your can use any text editor like [Atom](https://atom.io/), [Sublime](http://www.sublimetext.com/), [Brackets](http://brackets.io/), or [Notepad++](https://notepad-plus-plus.org/)
-7. If you need to host images or files, create a new folder inside the `files` folder using the same name as the project (example `newfabisp`). Put your images and files inside it. Recommended images size is 800x600 pixels.
-9. Once you are done. [Create a pull request](https://help.github.com/articles/creating-a-pull-request/) to have your project approved by the mighty instructors.
-10. Once approved you can read your project in the [resources gitbook](http://docs.academany.org/FabAcademany-Resources/_book/)
-11. [Thanks](https://upload.wikimedia.org/wikipedia/commons/3/30/DcvfThank-you-1.jpg) for your contribution!
+3. Write your tutorial using [Markdown](https://en.wikipedia.org/wiki/Markdown). If it is your first time writing in Markdown follow [this tutorial](http://www.markdowntutorial.com/). Your can use any text editor like [Atom](https://atom.io/), [Sublime](http://www.sublimetext.com/), [Brackets](http://brackets.io/), or [Notepad++](https://notepad-plus-plus.org/)
+4. Your project name must clarify the OS and language used in the tutorial. Example: `newfabisp.md`
+5. Edit the `SUMMARY.md` to link to your project
+6. If you need to host images or files, create a new folder inside the `files` folder using the same name as the project (example `newfabisp`). Put your images and files inside it. Recommended images size is 800x600 pixels.
+7. Once you are done. [Create a pull request](https://help.github.com/articles/creating-a-pull-request/) to have your project approved by the mighty instructors.
+8. Once approved you can read your project in the [resources gitbook](http://docs.academany.org/FabAcademany-Resources/_book/)
+9. [Thanks](https://upload.wikimedia.org/wikipedia/commons/3/30/DcvfThank-you-1.jpg) for your contribution!
